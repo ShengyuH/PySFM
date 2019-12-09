@@ -1,3 +1,4 @@
+colmap/*
 Images/*
 calib/*
 .ipynb_checkpoints/*
