@@ -1,4 +1,4 @@
-colmap/*
 Images/*
-calib/*
+results/*
 .ipynb_checkpoints/*
+*.DS_Store
